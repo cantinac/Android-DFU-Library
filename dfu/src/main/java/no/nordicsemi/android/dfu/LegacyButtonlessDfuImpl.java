@@ -31,7 +31,7 @@ import android.preference.PreferenceManager;
 
 import java.util.UUID;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import no.nordicsemi.android.dfu.internal.exception.DeviceDisconnectedException;
 import no.nordicsemi.android.dfu.internal.exception.DfuException;
 import no.nordicsemi.android.dfu.internal.exception.UploadAbortedException;

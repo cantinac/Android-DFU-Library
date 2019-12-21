@@ -34,7 +34,7 @@ import java.io.IOException;
 import java.util.UUID;
 import java.util.zip.CRC32;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import no.nordicsemi.android.dfu.internal.exception.DeviceDisconnectedException;
 import no.nordicsemi.android.dfu.internal.exception.DfuException;
 import no.nordicsemi.android.dfu.internal.exception.HexFileValidationException;
